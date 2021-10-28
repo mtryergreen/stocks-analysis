@@ -14,19 +14,13 @@ Overall, the returns of all stocks were almost entirely at a gain (green) in 201
 The refactored code for 2017 ran in 0.14 seconds, while the prior code ran just barely under 0.3 seconds, indicating that the refactored code indeed sped up the process
 Here is a comparison via the images with the prior version first and refactored version last: 
 
-![2017 unfactored](https://user-images.githubusercontent.com/89936913/139165728-6af2ad77-c9a8-452d-a184-9525986295da.png)
-
-
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/89936913/139281814-9b8f4755-8e6d-445c-9b38-401199133687.png)
+![2017 unfactored](https://user-images.githubusercontent.com/89936913/139165728-6af2ad77-c9a8-452d-a184-9525986295da.png) ![VBA_Challenge_2017](https://user-images.githubusercontent.com/89936913/139281814-9b8f4755-8e6d-445c-9b38-401199133687.png)
 
 
 A similar conclusion comes from the 2018 stock analysis data, for which the prior code ran just over 0.3 seconds and the refactored code ran just a hair over 0.1 seconds. 
 Here is a comparison of the images again: 
 
-![2018 prior](https://user-images.githubusercontent.com/89936913/139166068-7962571e-e503-42bc-8544-4465182d6b70.png)
-
-
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/89936913/139281898-27d69378-8786-4240-aaf6-543438406948.png)
+![2018 prior](https://user-images.githubusercontent.com/89936913/139166068-7962571e-e503-42bc-8544-4465182d6b70.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89936913/139281898-27d69378-8786-4240-aaf6-543438406948.png)
 
 
 # Summary: In a summary statement, address the following questions.
