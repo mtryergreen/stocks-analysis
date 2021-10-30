@@ -41,6 +41,6 @@ The refactored code had several components which were specified in the module:
 ![Code 1](https://user-images.githubusercontent.com/89936913/139280413-795735af-d748-41dd-84cf-2f0f531ca4e6.png)
 
 My ticker index was set to zero.
-This is important because all arrays need to have a base of zero; and each array consisted of the ticker volumes, starting prices and ending prices. Ticker volumes was set as a long array in order to hold numeric values while starting and ending prices were single arrays because these values could include numbers with decimals.
+This is important because all arrays need to have a base of zero; and each array consisted of the ticker volumes, starting prices and ending prices. Ticker volumes was set as a long array in order to hold numeric values while starting and ending prices were single arrays because these values could include numbers with decimals. 
 
 
