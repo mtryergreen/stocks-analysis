@@ -23,12 +23,12 @@ Here is a comparison of the images again:
 ![2018 prior](https://user-images.githubusercontent.com/89936913/139166068-7962571e-e503-42bc-8544-4465182d6b70.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89936913/139281898-27d69378-8786-4240-aaf6-543438406948.png)
 
 
-# Summary: In a summary statement, address the following questions.
+# Summary: 
 
-## What are the advantages or disadvantages of refactoring code?
+## Advantages and Disadvantages of Refactoring Code
 The advantages to refactoring code are most notably: you can shave a good chunk of a second off the loading time, which means the code is easier for the computer to process and will take up less space and energy; additionally, refactored code is often less text and is easier to read. 
 The disadvantage to refactoring code is that it requires a pretty decent understanding of how the code works on its own before it is refactored. As a new coder who still find VBA much less intuitive than basic Excel or even Python and RStudio, this was a big challenge for me. Looking up advice and tutorials on Google and StackOverflow was kind of a saving grace when it came to learning how to create both the pre-refactored code and the more efficient version. 
-## How do these pros and cons apply to refactoring the original VBA script?
+## Pros & Cons with Original VBA script
 The original VBA script features a lot more white space with more short lines of code spread apart- the refactored version features less of this space between code chunks, but a few longer lines of code. 
 Again, knowing how to write these longer lines and condense the code was very tricky without consulting the module and some StackOverflow walkthroughs. 
 Overall, a significant challenge for a new coder, probably a solid day's work, if even that, for a more experienced coder. 
